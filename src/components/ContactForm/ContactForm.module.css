@@ -1,0 +1,24 @@
+.form {
+  color: green;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.input {
+  margin-left: 10px;
+  border: 1px solid violet;
+  border-radius: 4px;
+}
+
+.button {
+  border: 1px solid green;
+  border-radius: 4px;
+  height: 24px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: violet;
+}

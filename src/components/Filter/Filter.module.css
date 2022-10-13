@@ -1,0 +1,21 @@
+.box {
+  color: green;
+  display: inline-flex;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  margin-top: 30px;
+}
+
+.label {
+  display: inline-flex;
+  margin-top: 10px;
+  flex-direction: column;
+  margin-top: 14px;
+  font-weight: bold;
+}
+
+.input {
+  margin-top: 10px;
+  border: 1px solid violet;
+  border-radius: 4px;
+}
